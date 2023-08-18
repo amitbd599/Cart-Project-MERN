@@ -1,0 +1,27 @@
+# dependencies
+/node_modules
+/Backend/node_modules
+
+# testing
+/coverage
+/Backend/coverage
+
+# production
+/build
+/Backend/build
+
+# misc
+.env
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+
+Backend/.env
+Backend/.DS_Store
+Backend/.env.local
+Backend/.env.development.local
+Backend/.env.test.local
+Backend/.env.production.local
